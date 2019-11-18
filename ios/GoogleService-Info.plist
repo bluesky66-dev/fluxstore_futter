@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>412823237422-qpqo1cdqjtnbgpb84i9c8b0vht9i5hnm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412823237422-qpqo1cdqjtnbgpb84i9c8b0vht9i5hnm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2BWeKRw-D7zHLnvVVoi6ahOqyucoa9s0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412823237422</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.inspireui.fluxstore</string>
+	<key>PROJECT_ID</key>
+	<string>fluxstore-inspireui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluxstore-inspireui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412823237422:ios:ec0e0abee17e848c</string>
+	<key>DATABASE_URL</key>
+	<string>https://fluxstore-inspireui.firebaseio.com</string>
+</dict>
+</plist>

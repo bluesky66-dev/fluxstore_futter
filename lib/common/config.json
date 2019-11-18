@@ -1,0 +1,107 @@
+{
+  "server": {
+    "type": "woo",
+    "url": "http://demo.mstore.io",
+    "consumerKey": "ck_b7594bc4391db4b56c635fe6da1072a53ca4535a",
+    "consumerSecret": "cs_980b9edb120e15bd2a8b668cacc734f7eca0ba40",
+
+    "blog": "http://fluxstore.inspireui.com",
+    "forgetPassword": "http://demo.mstore.io/wp-login.php?action=lostpassword"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true
+    },
+    {
+      "layout": "iconCategory"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "items": [
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+          "padding": 15.0
+        },
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/60091575-1f12ca80-976f-11e9-962c-bdccff60d143.png",
+          "padding": 15.0
+        },
+        {
+          "category": 21,
+          "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/59846820-12672e80-938b-11e9-8fa6-b331b7db331d.png",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 27,
+          "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
+          "padding": 5.0
+        },
+        {
+          "category": 21,
+          "image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Woman Collections",
+        "ab": "مجموعات المرأة",
+        "vi": "Bộ sưu tập cho phụ nữ"
+      },
+      "image": "",
+      "layout": "threeColumn",
+      "category": 25
+    },
+    {
+      "name": {
+        "en": "Man Collections",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      "image": "",
+      "layout": "twoColumn",
+      "category": 21
+    },
+    {
+      "name": {
+        "en": "Our Blog Posts",
+        "ab": "بلوق وظائف",
+        "vi": "Blog của chúng tôi"
+      },
+      "layout": "blog"
+    },
+    {
+      "name": {
+        "en": "Share your look",
+        "ab": "مشاركة مظهرك",
+        "vi": "Chia sẻ cái nhìn của bạn"
+      },
+      "layout": "instagram",
+      "tag": "koreanmodel"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "server": {
+    "type": "woo",
+    "url": "http://fluxstore.inspireui.com",
+    "blog": "http://fluxstore.inspireui.com",
+    "consumerKey": "ck_b6f749fe92037e00cf7a944380deba049cca7449",
+    "consumerSecret": "cs_13b6c4149e982137130be0da2c44fde102a07f73"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "logo"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "height": 0.5,
+      "items": [
+        {
+          "category": 37,
+          "image": "https://user-images.githubusercontent.com/1459805/60159385-3f00c780-981d-11e9-9f53-d57bef1b5ac3.png",
+          "padding": 0.0
+        },
+        {
+          "category": 40,
+          "image": "https://user-images.githubusercontent.com/1459805/60159450-6192e080-981d-11e9-8cff-bd083ae0b49d.png",
+          "padding": 0.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 37,
+          "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
+          "padding": 5.0
+        },
+        {
+          "category": 38,
+          "image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Features Products",
+        "ab": "ميزات المنتجات",
+        "vi": "Tính năng sản phẩm"
+      },
+      "layout": "threeColumn",
+      "category": 40
+    },
+    {
+      "name": {
+        "en": "Recent",
+        "ab": "الأخيرة",
+        "vi": "Gần đây"
+      },
+      "layout": "twoColumn",
+      "category": 41
+    },
+    {
+      "name": {
+        "en": "Latest News",
+        "ab": "أحدث الأخبار",
+        "vi": "Tin mới nhất"
+      },
+      "layout": "blog"
+    },
+    {
+      "name": {
+        "en": "Share your look",
+        "ab": "مشاركة مظهرك",
+        "vi": "Chia sẻ cái nhìn của bạn"
+      },
+      "layout": "instagram",
+      "tag": "fashionmodel"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list"
+  }
+}
